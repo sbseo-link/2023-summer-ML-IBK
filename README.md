@@ -22,8 +22,8 @@
     | Class | Date             | Topic                    | Lecture Note       | Practice             | Note                                  |
     |:-----:|:----------------:|:------------------------:|:------------------:|:--------------------:|:--------------------------------------|
     | 1     | 05월 20일         | 프로그래밍 개요 및 머신러닝 프로젝트의 구성      | [Lecture 1]        | [Practice 1]    |          |
-    | 휴강   | 05월 27일         | -                        | -                  | -                    |                                       |
-    | 2     | 06월 03일         | 머신러닝 Overview (알고리즘 분류, 각 알고리즘별 이론, 학습법)       |  Lecture 2         | Practice 2      |      |
+    | 휴강  | 05월 27일         | -                        | -                  | -                    |                                       |
+    | 2     | 06월 03일         | 머신러닝 Overview (알고리즘 분류, 각 알고리즘별 이론, 학습법)       |  [Lecture 2]         | [Practice 2]      |      |
     | 3     | 06월 10일         | 지도학습         | Lecture 3        | Practice 3         |                |
     | 4     | 06월 17일         | 지도학습2           | Lecture 4        | Practice 4         |               |
     | 5     | 06월 24일         | 비지도학습             | Lecture 5        | Practice 5         |      |
@@ -38,12 +38,15 @@
     [practice]: https://drive.google.com/drive/folders/14QcTVaO1TnORMYd10uVKLu02dyzHQ8Hk?usp=share_link
     [Lecture 1]: https://drive.google.com/file/d/1Z0JQU-9Adyp1hgnPv9kHcnBIzwpdD-1v/view?usp=share_link
     [Practice 1]: https://drive.google.com/file/d/1SVMu8Jy1A3tRFInEYxbxLmuZ3YF29kEE/view?usp=share_link
+    [Lecture 2]: https://drive.google.com/file/d/1dY2NsH9zVsyaEfSYHeTsNp6EtYQumoQ9/view?usp=share_link
+    [Practice 2]: https://drive.google.com/file/d/1qU1vp8E3fmBLJn4OUOUnWdb-QjjctEKR/view?usp=share_link
 
 
 ## Evaluation
 * 참여점수 (50%)
     * 출석: 총 10회 (5% x 10 = 50%)
     * 지각: 강의시작 후 20분 이내
+    * 오프라인 출석만 인정
 
 * 프로젝트 과제 (50%)
     * 기획 (15%)
