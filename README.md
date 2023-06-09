@@ -24,7 +24,7 @@
     | 1     | 05월 20일         | 프로그래밍 개요 및 머신러닝 프로젝트의 구성      | [Lecture 1]        | [Practice 1]    |          |
     | 휴강  | 05월 27일         | -                        | -                  | -                    |                                       |
     | 2     | 06월 03일         | 머신러닝 Overview (알고리즘 분류, 각 알고리즘별 이론, 학습법)       |  [Lecture 2]         | [Practice 2]      |      |
-    | 3     | 06월 10일         | 지도학습         | Lecture 3        | Practice 3         |                |
+    | 3     | 06월 10일         | 지도학습         | [Lecture 3]        | [Practice 3]  [Practice 3-2]     | [heart.csv]               |
     | 4     | 06월 17일         | 지도학습2           | Lecture 4        | Practice 4         |               |
     | 5     | 06월 24일         | 비지도학습             | Lecture 5        | Practice 5         |      |
     | 6     | 07월 01일         | 강화학습         | Lecture 6        | Practice 6         |           |
@@ -40,6 +40,10 @@
     [Practice 1]: https://drive.google.com/file/d/1SVMu8Jy1A3tRFInEYxbxLmuZ3YF29kEE/view?usp=share_link
     [Lecture 2]: https://drive.google.com/file/d/1dY2NsH9zVsyaEfSYHeTsNp6EtYQumoQ9/view?usp=share_link
     [Practice 2]: https://drive.google.com/file/d/1qU1vp8E3fmBLJn4OUOUnWdb-QjjctEKR/view?usp=share_link
+    [Lecture 3]: https://drive.google.com/file/d/1pLL1MZmdgaAPYFF4nZkjacOPNIqMsqb7/view?usp=drive_link
+    [Practice 3]: https://drive.google.com/file/d/1hIPFjp0yTMOULRtsm-py0rTeUFoDTu4W/view?usp=drive_link
+    [Practice 3-2]: https://drive.google.com/file/d/1JExGnXUV0DFAzKXlRzmTh_2EkoTtcxDJ/view?usp=drive_link
+    [heart.csv]: https://drive.google.com/file/d/1rAjR8AdpJy9-_flfbnfoMq31yoC2IJI4/view?usp=drive_link
 
 
 ## Evaluation
