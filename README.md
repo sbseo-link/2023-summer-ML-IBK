@@ -25,7 +25,7 @@
     | 휴강  | 05월 27일         | -                        | -                  | -                    |                                       |
     | 2     | 06월 03일         | 머신러닝 Overview (알고리즘 분류, 각 알고리즘별 이론, 학습법)       |  [Lecture 2]         | [Practice 2]      |      |
     | 3     | 06월 10일         | 지도학습         | [Lecture 3]        | [Practice 3]  [Practice 3-2] [Practice 3-3]    | [heart.csv]               |
-    | 4     | 06월 17일         | 지도학습2           | [Lecture 4]        | [Practice 4-lr] [Practice 4-more] [Practice 4-MICE]         | [heart_missing.csv]              |
+    | 4     | 06월 17일         | 지도학습2           | [Lecture 4]        | [Practice 4-lr] [Practice 4-more] [Practice 4-MICE] [Practice 4-supervised_learning-answer]        | [heart_missing.csv]              |
     | 5     | 06월 24일         | 비지도학습             | Lecture 5        | Practice 5         |      |
     | 6     | 07월 01일         | 강화학습         | Lecture 6        | Practice 6         |           |
     | 7     | 07월 08일         | 학습 방법론        | Lecture 6        | Practice 6         |             |
@@ -48,6 +48,7 @@
     [Practice 3-3]: https://drive.google.com/file/d/1fxh_fjUq7CWHSCWWGRP2nCwOqRoI96u1/view?usp=drive_link
     [Practice 4-lr]: https://drive.google.com/file/d/1xAU8BagvdFeacUTEMzCE6YjV84Blql-9/view?usp=drive_link
     [Practice 4-more]: https://drive.google.com/file/d/1tjglFtQ-LbWecuaqETEA4tPdvuowZeHA/view?usp=drive_link
+    [Practice 4-supervised_learning-answer]: https://drive.google.com/file/d/1xYVziotoc72KCQN7tL14-Qf7ikAfOIeU/view?usp=drive_link
     [Practice 4-MICE]: https://drive.google.com/file/d/10LMg-sDzIltei9FSgVXAC-KV-RBgkW84/view?usp=drive_link
     [heart_missing.csv]: https://drive.google.com/file/d/1knlurg6xSiBepMc03Q0uFqc9pDtIHU0D/view?usp=drive_link
 
