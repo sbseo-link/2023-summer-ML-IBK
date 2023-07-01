@@ -56,7 +56,7 @@
     [Practice 5-base]: https://drive.google.com/file/d/1sYX2Hi_DdEhT7v1XLkUJoHOFps3_teNz/view?usp=drive_link
     [Practice 5-answer]: https://drive.google.com/file/d/12kOJ5PhQlarIKpz38LjYDVnkzt8lAAPd/view?usp=drive_link
     [Lecture 6]: https://drive.google.com/file/d/1Piz_Il1sIppOA418PaLZOQY1v_-btN6M/view?usp=drive_link
-    [assginment]: https://drive.google.com/file/d/1pA20m0DpsrU3qVpIFCkpUftkEMYudWen/view?usp=drive_link
+    [assignment]: https://drive.google.com/file/d/1pA20m0DpsrU3qVpIFCkpUftkEMYudWen/view?usp=drive_link
 
 
 ## Evaluation
