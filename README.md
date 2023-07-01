@@ -27,7 +27,7 @@
     | 3     | 06월 10일         | 지도학습         | [Lecture 3]        | [Practice 3]  [Practice 3-2] [Practice 3-3]    | [heart.csv]               |
     | 4     | 06월 17일         | 지도학습2           | [Lecture 4]        | [Practice 4-lr] [Practice 4-more] [Practice 4-MICE] [Practice 4-supervised_learning-answer] [Practice 4-MICE_answer]       | [heart_missing.csv]              |
     | 5     | 06월 24일         | 비지도학습             | [Lecture 5]        | [Practice 5-base] [Practice 5-answer]         |      |
-    | 6     | 07월 01일         | 강화학습         | Lecture 6        | Practice 6         |           |
+    | 6     | 07월 01일         | 강화학습         | [Lecture 6]        |          | [assignment]          |
     | 7     | 07월 08일         | 학습 방법론        | Lecture 6        | Practice 6         |             |
     | 8     | 07월 15일         | 데이터 시각화         | Lecture 6        | Practice 6         |              |
     | 9     | 07월 22일         | Toy Project         | Lecture 6        | Practice 6         |        |
@@ -55,6 +55,8 @@
     [Lecture 5]: https://drive.google.com/file/d/15kc6IIzcl8q6rBaF0aWxkJLCuf2UQPqb/view?usp=drive_link
     [Practice 5-base]: https://drive.google.com/file/d/1sYX2Hi_DdEhT7v1XLkUJoHOFps3_teNz/view?usp=drive_link
     [Practice 5-answer]: https://drive.google.com/file/d/12kOJ5PhQlarIKpz38LjYDVnkzt8lAAPd/view?usp=drive_link
+    [Lecture 6]: https://drive.google.com/file/d/1Piz_Il1sIppOA418PaLZOQY1v_-btN6M/view?usp=drive_link
+    [assginment]: https://drive.google.com/file/d/1pA20m0DpsrU3qVpIFCkpUftkEMYudWen/view?usp=drive_link
 
 
 ## Evaluation
