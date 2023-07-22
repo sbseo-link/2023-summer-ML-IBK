@@ -30,7 +30,7 @@
     | 6     | 07월 01일         | 강화학습         | [Lecture 6]        | [Practice ETC] [data ETC]         | [assignment]          |
     | 7     | 07월 08일         | 학습 방법론        | [Lecture 7]        | [Practice 7-ensemble] [Practice 7-cv] [Practice 7-ensemble-answer] [Practice 7-cv-answer]         |             |
     | 8     | 07월 15일         | 데이터 시각화         | [Lecture 8]        | Practice 8         |              |
-    | 9     | 07월 22일         | Toy Project         | Lecture 9        | Practice 9         |        |
+    | 9     | 07월 22일         | Toy Project         | [Lecture 9]        | Practice 9         |        |
     | 10    | 07월 29일         | 머신러닝과 딥러닝         | Lecture 10        | Practice 10         |                 |
 
     [shared file]: https://drive.google.com/drive/folders/1nWBeIdGIUb7NqdojpDTRQ7XoRGg-0dtv?usp=share_link
@@ -65,6 +65,7 @@
     [Practice 7-ensemble-answer]: https://drive.google.com/file/d/1sPjwKVePs6Bo0vo0KoWJYvykh-uOtApw/view?usp=drive_link
     [Practice 7-cv-answer]: https://drive.google.com/file/d/1JPrvJiCsCMV6nykwlcgNrzgqhDfCkrvb/view?usp=drive_link
     [Lecture 8]: https://drive.google.com/file/d/1zIk-WPVXpnPxm1pAtbR33JdjZvo6Mo1e/view?usp=drive_link
+    [Lecture 9]: https://drive.google.com/file/d/1RJxr42a4Roa7r4U0QXF6LTyL8RHZVk0o/view?usp=drive_link
 
 
 ## Evaluation
