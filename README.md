@@ -65,7 +65,7 @@
     [Practice 7-ensemble-answer]: https://drive.google.com/file/d/1sPjwKVePs6Bo0vo0KoWJYvykh-uOtApw/view?usp=drive_link
     [Practice 7-cv-answer]: https://drive.google.com/file/d/1JPrvJiCsCMV6nykwlcgNrzgqhDfCkrvb/view?usp=drive_link
     [Lecture 8]: https://drive.google.com/file/d/1zIk-WPVXpnPxm1pAtbR33JdjZvo6Mo1e/view?usp=drive_link
-    [Lecture 9]: https://drive.google.com/file/d/1RJxr42a4Roa7r4U0QXF6LTyL8RHZVk0o/view?usp=drive_link
+    [Lecture 9]: https://drive.google.com/file/d/1OUqvoQW5AKVMZ1x82hzz-hWJEDdHMYUo/view?usp=drive_link
 
 
 ## Evaluation
