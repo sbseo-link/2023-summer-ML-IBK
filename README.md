@@ -18,6 +18,12 @@
 
 * **[shared file]** | **[lecture_note]** | **[practice]**
 
+* **대체 과제**
+* 제출기한: 8월 6일 (일요일) 자정
+* 과제제약: 없음 (과제 안내의 사항들을 따르되, 더 깊게 수행할 수 있는 부분에 집중가능)
+* 평가방법: 과제 안내사항을 기준으로 평가하지만, 특정 부분에 깊게 수행한 경우 가산 가능
+* 제출방법: 자유형식, sbseo@sbseo.link 로 제출
+
 * **Timeline**
     | Class | Date             | Topic                    | Lecture Note       | Practice             | Note                                  |
     |:-----:|:----------------:|:------------------------:|:------------------:|:--------------------:|:--------------------------------------|
@@ -30,8 +36,8 @@
     | 6     | 07월 01일         | 강화학습         | [Lecture 6]        | [Practice ETC] [data ETC]         | [assignment]          |
     | 7     | 07월 08일         | 학습 방법론        | [Lecture 7]        | [Practice 7-ensemble] [Practice 7-cv] [Practice 7-ensemble-answer] [Practice 7-cv-answer]         |             |
     | 8     | 07월 15일         | 데이터 시각화         | [Lecture 8]        | Practice 8         |              |
-    | 9     | 07월 22일         | Toy Project         | [Lecture 9]        | Practice 9         |        |
-    | 10    | 07월 29일         | 머신러닝과 딥러닝         | Lecture 10        | Practice 10         |                 |
+    | 9     | 07월 22일         | Toy Project         | [Lecture 9]        | [Practice 9]         |        |
+    | 10    | 07월 29일         | 머신러닝과 딥러닝         | [Lecture 10]        | Practice 10         |                 |
 
     [shared file]: https://drive.google.com/drive/folders/1nWBeIdGIUb7NqdojpDTRQ7XoRGg-0dtv?usp=share_link
     [lecture_note]: https://drive.google.com/drive/folders/1YGEN9lHCrWyQxthAGTyrQblxSeJ-xt3m?usp=share_link
@@ -66,6 +72,8 @@
     [Practice 7-cv-answer]: https://drive.google.com/file/d/1JPrvJiCsCMV6nykwlcgNrzgqhDfCkrvb/view?usp=drive_link
     [Lecture 8]: https://drive.google.com/file/d/1zIk-WPVXpnPxm1pAtbR33JdjZvo6Mo1e/view?usp=drive_link
     [Lecture 9]: https://drive.google.com/file/d/1OUqvoQW5AKVMZ1x82hzz-hWJEDdHMYUo/view?usp=drive_link
+    [Practice 9]: https://drive.google.com/file/d/1K3YCbnSQiszL8-9GryymDXCH7emzsY0x/view?usp=drive_link
+    [Lecture 10]: https://drive.google.com/file/d/1FMV1K6stvNMqAZnJuj-idV2PF5jXf5Ov/view?usp=drive_link
 
 
 ## Evaluation
